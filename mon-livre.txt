@@ -1,0 +1,14 @@
+
+pour index: git add nom du fichier: git init
+
+pour vérifier: git status
+
+git commit pour commiter: git commit -m "premiercommit"
+
+pour voir les tous commit: git log
+
+pour utiliser git lg copier "alias" espace entre lg et %Cre
+
+
+
+annuler les modif
